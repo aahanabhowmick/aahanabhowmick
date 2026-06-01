@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aahana-bhowmick-756971310)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aahanabhowmick@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aahanabhowmick-181717?style=flat&logo=github)](https://github.com/aahanabhowmick)
-![Profile views](https://komarev.com/ghpvc/?username=ab6802&color=1A3A5C&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=aahanabhowmick&color=1A3A5C&style=flat)
 
 ---
 
@@ -22,9 +22,9 @@
 ---
 
 ## ⚙️ Tech Stack
- 
+
 **Languages**
- 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -32,18 +32,18 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
- 
+
 **Frameworks & Databases**
- 
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
- 
+
 **Data & Analytics**
- 
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -53,9 +53,9 @@
 ![Gephi](https://img.shields.io/badge/Gephi-9933CC?style=flat)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
- 
+
 **Systems & IoT**
- 
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
@@ -63,31 +63,31 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
- 
+
 **Networking & Security**
- 
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C99?style=flat)
 ![DNS](https://img.shields.io/badge/DNS-4A90D9?style=flat)
 ![VLANs](https://img.shields.io/badge/VLANs-0064A5?style=flat)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![CyberOps](https://img.shields.io/badge/CyberOps-E2231A?style=flat&logo=cisco&logoColor=white)
- 
+
 **Cloud & DevOps**
- 
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
- 
+
 **Tools & Collaboration**
- 
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
- 
+
 ---
 
 ## 🔨 Projects
@@ -185,16 +185,19 @@ A conceptual mental wellness platform centered on sound-based relaxation and emo
 GPA: 4.0 / 4.0
 
 **Curtin University Dubai** — B.Sc. Information Technology *(Jan 2023 – Aug 2025)*
-GPA: 3.6 / 4.0 · 🏆 3× Pro-Vice Chancellor's List · Academic Excellence Scholarship · CBSE School Topper 2022
+GPA: 3.6 / 4.0 · 🏆 3× Pro-Vice Chancellor's List · Academic Excellence Scholarship 
+
+**Credence High School, Dubai** — Class XII CBSE *(2021 – 2022)*
+🥇 School Topper — Centralized CBSE Board Exams · 96%
+ 
+---
+
+<div align="center">
+
+![Contribution Graph](https://ghchart.rshah.org/1A3A5C/aahanabhowmick)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aahanabhowmick&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=1A3A5C" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahanabhowmick&layout=compact&hide_border=true&title_color=1A3A5C" height="150"/>
-</p>
----
- 
 *Curiosity-driven. Detail-obsessed. Always shipping.* 🚀
